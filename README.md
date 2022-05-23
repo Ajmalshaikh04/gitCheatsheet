@@ -4,17 +4,19 @@ A fast-paced course for getting up to speed with Git and Github
 
 ## GIT BASICS
 
-git init
-"directory"
+**git init**
+"directory"--
 Create empty Git repo in specified directory.Run with no
 arguments to initialize the current directory asagit repository.
 
-git clone"repo"
+## **git clone"repo"**
+
 Clone repo located at "repo" onto local machine.Original repo can be
 located on the local filesystem or onaremote machine via HTTP or SSH.
 
-git config
+**git config**
 user.name "name"
+--
 Define author name to be used for all commits in current repo.Devs
 commonly use --global flag to set config options for current user.
 
