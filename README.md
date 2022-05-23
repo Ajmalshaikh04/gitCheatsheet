@@ -5,7 +5,8 @@ A fast-paced course for getting up to speed with Git and Github
 ## GIT BASICS
 
 **git init**
-"directory"--
+<**directory**>
+--
 Create empty Git repo in specified directory.Run with no
 arguments to initialize the current directory asagit repository.
 
