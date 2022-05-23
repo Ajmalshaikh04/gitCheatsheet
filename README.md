@@ -9,7 +9,7 @@ A fast-paced course for getting up to speed with Git and Github
 Create empty Git repo in specified directory.Run with no
 arguments to initialize the current directory asagit repository.
 
-## **git clone"repo"**
+## **git clone <repo>**
 
 Clone repo located at "repo" onto local machine.Original repo can be
 located on the local filesystem or onaremote machine via HTTP or SSH.
